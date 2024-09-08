@@ -23,12 +23,19 @@
 1. Clone o repositório para sua máquina:
    ```bash
    git clone https://github.com/skvanderson/letreco-jogo.git
-cd letreco-jogo
+
+2. Navegue até a pasta do projeto::
+   ```bash
+   cd letreco-jogo
+
+3. Abra o arquivo `index.html` em seu navegador.
 
 📄 Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
 
 Desenvolvido por Sharlles Andersonn com 💻 e ☕.
-Agora o README está formatado corretamente para que tudo siga o mesmo padrão!
+
+
+
 
 
